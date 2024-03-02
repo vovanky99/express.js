@@ -1,0 +1,26 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanky99/express.js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog"
+  ],
+  "author": "vovanky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovanky99/express.js/issues"
+  },
+  "homepage": "https://github.com/vovanky99/express.js#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
